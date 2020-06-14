@@ -1,0 +1,12 @@
+.todo-list-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+li {
+   
+    list-style-position: inside;
+    list-style-type: decimal;
+  }
+
+
